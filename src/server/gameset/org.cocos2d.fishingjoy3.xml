@@ -1,0 +1,32 @@
+﻿<gameset>
+	<game version="20150401" usejoybutton="1" showjoybutton="1" useformouseudlr="0" multitouch="1" name="捕鱼达人3V1.0.8" apk="捕鱼达人3V1.0.8.apk" tip="" />
+	<!-- Gravitational Sets -->
+	<Gravitational step="0" tip="" />
+	<!-- regular keys 
+	<key key="" incurrentset="" joyusejoy="" longpresstime="" alwayshide="" sendkey="" longdo="" show="" x="" y="" w="" h="" tip="" />
+	-->
+	<!-- 鼠标 -->
+	<!-- 游戏手柄 -->
+	<!-- 按键说明 -->
+	<!-- 捕鱼舵轮 -->
+	<key key="JoyL" 		incurrentset="1" joyusejoy="7" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.500" y="0.980" w="64" h="64" tip="瞄准撒网/按下：显示隐藏虚拟按键提示" />
+	<key key="JoyR" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="1" show="0" x="0.999" y="0.999" w="256" h="256" tip="鼠标移动/按下：禁用启用鼠标" />
+	<key key="JoyBtA" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="64" h="64" tip="" />
+	<key key="JoyBtB" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.630" y="0.980" w="64" h="64" tip="X1" />
+	<key key="JoyBtX" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.300" y="0.980" w="64" h="64" tip="金币" />
+	<key key="JoyBtY" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.720" y="0.980" w="64" h="64" tip="水晶" />
+	<key key="JoyBtL1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtR1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="启用鼠标：鼠标点击/禁用鼠标：显示隐藏操作示意图" />
+	<key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.430" y="0.980" w="100" h="100" tip="切换渔网-" />
+	<key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.580" y="0.980" w="100" h="100" tip="切换渔网+" />
+	<key key="JoyBtUP" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtDOWN" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtLEFT" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtRIGHT" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtBACK" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="1004" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="返回" />
+	<key key="JoyBtSTART" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="1082" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="菜单" />
+	<key key="JoyBtLOGO" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="9999" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />	
+	<!-- 操作模式 -->
+	<modejoy 	support="1" default="1" tip="" />
+	<moderc 	support="0" default="0" tip="" />
+</gameset>

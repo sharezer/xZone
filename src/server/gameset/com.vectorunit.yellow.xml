@@ -1,0 +1,48 @@
+<gameset>
+	<game version="20141125" usejoybutton="1" showjoybutton="1" useformouseudlr="0" multitouch="1" name="Beach Buggy BlitzV1.2.5" apk="Beach Buggy BlitzV1.2.5.apk" tip="" />
+	<!-- 原始操作设置：XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	-->
+	<!-- Gravitational Sets -->
+	<Gravitational step="0" tip="" />
+	<!-- regular keys
+	<key key="" incurrentset="" joyusejoy="" longpresstime="" alwayshide="" sendkey="" longdo="" show="" x="" y="" w="" h="" tip="" />
+	-->
+	<!-- 鼠标 -->
+	<!-- 游戏手柄 -->
+	<!-- 按键说明 -->
+	<key key="JoyL" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyR" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="1" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<!-- <key key="JoyBtA" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.180" y="0.880" w="180" h="180" tip="" /> -->
+	<!-- 设置，重置车辆位置 -->
+	<!-- <key key="JoyBtB" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.313" y="0.880" w="180" h="180" tip="" /> -->
+	<key key="JoyBtB" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.942" y="0.280" w="128" h="128" tip="" />
+	<!-- 暂停，News -->
+	<!-- <key key="JoyBtX" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.687" y="0.880" w="180" h="180" tip="" /> -->
+	<key key="JoyBtX" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.040" y="0.260" w="128" h="128" tip="" />
+	<!-- <key key="JoyBtY" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.820" y="0.880" w="180" h="180" tip="" /> -->
+	<!-- 暂停，News -->
+	<key key="JoyBtL1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtR1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- <key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.040" y="0.260" w="128" h="128" tip="" /> -->
+	<key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.070" y="0.920" w="128" h="128" tip="" />
+	<!-- 设置，重置车辆位置 -->
+	<!-- <key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.942" y="0.280" w="128" h="128" tip="" /> -->
+	<key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.930" y="0.920" w="128" h="128" tip="" />
+	<key key="JoyBtUP" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtDOWN" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- Left -->
+	<key key="JoyBtLEFT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.070" y="0.620" w="128" h="128" tip="" />
+	<!-- Right -->
+	<key key="JoyBtRIGHT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.930" y="0.620" w="128" h="128" tip="" />
+	<!-- High Score -->
+	<key key="JoyBtBACK" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.060" y="0.050" w="200" h="200" tip="" />
+	<!-- Play -->
+	<key key="JoyBtSTART" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.500" y="0.870" w="256" h="256" tip="" />
+	<!-- Coins，商城 -->
+	<key key="JoyBtLOGO" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.942" y="0.098" w="180" h="180" tip="" />
+	<!-- 操作模式 -->
+	<modejoy 	support="1" default="1" tip="" />
+	<moderc 	support="0" default="0" tip="" />
+</gameset>

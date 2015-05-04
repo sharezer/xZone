@@ -1,0 +1,40 @@
+<gameset>
+	<game version="20141127" usejoybutton="1" showjoybutton="1" useformouseudlr="0" multitouch="1" name="TANK 90" apk="90经典坦克大战.apk" tip="" />
+	<!-- 原始操作设置：XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	-->
+	<!-- Gravitational Sets -->
+	<Gravitational step="0" tip="" />
+	<!-- regular keys
+	<key key="" incurrentset="" joyusejoy="" longpresstime="" alwayshide="" sendkey="" longdo="" show="" x="" y="" w="" h="" tip="" />
+	-->
+	<!-- 鼠标 -->
+	<!-- 游戏手柄 -->
+	<!-- 方向摇杆 -->
+	<key key="JoyL" 		incurrentset="1" joyusejoy="1" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.220" y="0.750" w="512" h="512" tip="" />
+	<key key="JoyR" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="1" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtA" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtB" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtX" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 开火 -->
+	<key key="JoyBtY" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.830" y="0.820" w="128" h="128" tip="" />
+	<!-- Back:左上 -->
+	<key key="JoyBtL1" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.160" y="0.080" w="128" h="128" tip="" />
+	<key key="JoyBtR1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- Back：下 -->
+	<key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.450" y="0.910" w="128" h="128" tip="" />
+	<!-- Again：下 -->
+	<key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.650" y="0.910" w="128" h="128" tip="" />
+	<!-- 方向摇杆 -->
+	<key key="JoyBtUP" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.220" y="0.660" w="128" h="128" tip="" />
+	<key key="JoyBtDOWN" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.220" y="0.850" w="128" h="128" tip="" />
+	<key key="JoyBtLEFT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.165" y="0.750" w="128" h="128" tip="" />
+	<key key="JoyBtRIGHT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.275" y="0.750" w="128" h="128" tip="" />
+	<key key="JoyBtBACK" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtSTART" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtLOGO" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="9999" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 操作模式 -->
+	<modejoy 	support="1" default="1" tip="" />
+	<moderc 	support="0" default="0" tip="" />
+</gameset>

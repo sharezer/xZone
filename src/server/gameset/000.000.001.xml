@@ -1,0 +1,34 @@
+<gameset>
+	<game version="20141125" usejoybutton="1" showjoybutton="1" useformouseudlr="0" multitouch="1" name="默认" apk="" tip="" />
+	<!-- 原始操作设置：XXXXXXXX 
+	XXXXXXXX	XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	-->
+	<!-- Gravitational Sets -->
+	<Gravitational step="0" tip="" />
+	<!-- regular keys
+	<key key="" incurrentset="" joyusejoy="" longpresstime="" alwayshide="" sendkey="" longdo="" show="" x="" y="" w="" h="" tip="" />
+	-->
+	<!-- 鼠标 -->
+	<!-- 游戏手柄 -->
+	<key key="JoyL" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.100" y="0.600" w="256" h="256" tip="" />
+	<key key="JoyR" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="1" show="1" x="0.700" y="0.850" w="256" h="256" tip="" />
+	<key key="JoyBtA" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.850" y="0.720" w="168" h="168" tip="" />
+	<key key="JoyBtB" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.930" y="0.620" w="168" h="168" tip="" />
+	<key key="JoyBtX" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.770" y="0.620" w="168" h="168" tip="" />
+	<key key="JoyBtY" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.850" y="0.520" w="168" h="168" tip="" />
+	<key key="JoyBtL1" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.050" y="0.010" w="128" h="128" tip="" />
+	<key key="JoyBtR1" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="1" longdo="0" show="1" x="0.950" y="0.010" w="128" h="128" tip="" />
+	<key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.050" y="0.160" w="128" h="128" tip="" />
+	<key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.950" y="0.160" w="128" h="128" tip="" />
+	<key key="JoyBtUP" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.300" y="0.750" w="128" h="128" tip="" />
+	<key key="JoyBtDOWN" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.300" y="0.900" w="128" h="128" tip="" />
+	<key key="JoyBtLEFT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.225" y="0.825" w="128" h="128" tip="" />
+	<key key="JoyBtRIGHT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.375" y="0.825" w="128" h="128" tip="" />
+	<key key="JoyBtBACK" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.360" y="0.200" w="128" h="128" tip="" />
+	<key key="JoyBtSTART" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.560" y="0.200" w="128" h="128" tip="" />
+	<key key="JoyBtLOGO" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.460" y="0.200" w="128" h="128" tip="" />
+	<!-- 操作模式 -->
+	<modejoy 	support="1" default="1" tip="" />
+	<moderc 	support="0" default="0" tip="" />
+</gameset>

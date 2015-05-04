@@ -1,0 +1,45 @@
+﻿<gameset>
+	<game version="20150401" usejoybutton="1" showjoybutton="1" useformouseudlr="0" multitouch="1" name="三国志无双" apk="三国志无双.apk" tip="" />
+	<!-- 原始操作设置：XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	XXXXXXXX	XXXXXXXX
+	-->
+	<!-- Gravitational Sets -->
+	<Gravitational step="0" tip="" />
+	<!-- regular keys
+	<key key="" incurrentset="" joyusejoy="" longpresstime="" alwayshide="" sendkey="" longdo="" show="" x="" y="" w="" h="" tip="" />
+	-->
+	<!-- 鼠标 -->
+	<!-- 游戏手柄 -->
+	<!-- 移动摇杆 -->
+	<!-- 按键说明 -->
+	<key key="JoyL" 		incurrentset="1" joyusejoy="1" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.115" y="0.797" w="330" h="330" tip="" />
+	<key key="JoyR" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="1" show="0" x="0.700" y="0.400" w="128" h="128" tip="" />
+	<!-- 防御 -->
+	<key key="JoyBtA" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.755" y="0.816" w="178" h="178" tip="" />
+	<!-- 攻击 -->
+	<key key="JoyBtB" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.900" y="0.820" w="266" h="266" tip="" />
+	<!-- 特技 -->
+	<key key="JoyBtY" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.825" y="0.615" w="220" h="220" tip="" />
+	<!-- 嗑药 -->
+	<key key="JoyBtX" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.940" y="0.520" w="118" h="118" tip="" />
+	<key key="JoyBtL1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtR1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 道具1 -->
+	<key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.940" y="0.380" w="100" h="100" tip="" />
+	<!-- 道具2 -->
+	<key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.940" y="0.240" w="100" h="100" tip="" />
+	<key key="JoyBtUP" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtDOWN" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 左 -->
+	<key key="JoyBtLEFT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.100" y="0.850" w="128" h="128" tip="" />
+	<!-- 右 -->
+	<key key="JoyBtRIGHT" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.900" y="0.850" w="128" h="128" tip="" />
+	<!-- 暂停 -->
+	<key key="JoyBtBACK" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="1" x="0.115" y="0.120" w="100" h="100" tip="" />
+	<key key="JoyBtSTART" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="1004" longdo="0" show="0" x="0.850" y="0.930" w="180" h="180" tip="" />
+	<key key="JoyBtLOGO" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="9999" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 操作模式 -->
+	<modejoy 	support="1" default="1" tip="" />
+	<moderc 	support="0" default="0" tip="" />
+</gameset>

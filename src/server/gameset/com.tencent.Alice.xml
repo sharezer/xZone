@@ -1,0 +1,40 @@
+﻿<gameset>
+	<game version="20150402" usejoybutton="1" showjoybutton="1" useformouseudlr="0" multitouch="1" name="天天风之旅v1.1.9.321" apk="天天风之旅v1.1.9.321.apk" tip="" />
+	<!-- 原始操作设置：Buttons A com.yinhan.hunter.ld
+	Buttons Size	Normal
+	Buttons Pos		Mid
+	-->
+	<!-- Gravitational Sets -->
+	<Gravitational step="0" tip="" />
+	<!-- regular keys 
+	<key key="" incurrentset="" joyusejoy="" longpresstime="" alwayshide="" sendkey="" longdo="" show="" x="" y="" w="" h="" tip="" />
+	-->
+	<!-- 鼠标 -->
+	<!-- 游戏手柄 -->
+	<!-- 按键说明 -->
+	<!-- 方向摇杆 -->
+	<key key="JoyL" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.490" y="0.450" w="512" h="512" tip="" />
+	<key key="JoyR" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="1" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtY" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtA" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtX" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtB" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtL1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<key key="JoyBtR1" 		incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 攻击，跳跃的同时攻击会滑行一段距离 -->
+	<key key="JoyBtL2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.080" y="0.870" w="128" h="128" tip="" />
+	<!-- 跳跃 -->
+	<key key="JoyBtR2" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.920" y="0.870" w="128" h="128" tip="" />
+	<key key="JoyBtUP" 		incurrentset="0" joyusejoy="0" longpresstime="100" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtDOWN" 	incurrentset="0" joyusejoy="0" longpresstime="100" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtLEFT" 	incurrentset="0" joyusejoy="0" longpresstime="100" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<key key="JoyBtRIGHT" 	incurrentset="0" joyusejoy="0" longpresstime="100" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.999" y="0.999" w="256" h="256" tip="" />
+	<!-- 右上角：暂停 -->
+	<key key="JoyBtBACK" 		incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="0" longdo="0" show="0" x="0.950" y="0.010" w="128" h="128" tip="" />
+	<!-- 中间：继续游戏 -->
+	<key key="JoyBtSTART" 	incurrentset="1" joyusejoy="0" longpresstime="-11" alwayshide="1" sendkey="0" longdo="0" show="0" x="0.500" y="0.360" w="256" h="256" tip="" />
+	<key key="JoyBtLOGO" 	incurrentset="0" joyusejoy="0" longpresstime="-11" alwayshide="0" sendkey="9999" longdo="0" show="0" x="0.999" y="0.999" w="128" h="128" tip="" />
+	<!-- 操作模式 -->
+	<modejoy 	support="1" default="1" tip="" />
+	<moderc 	support="0" default="0" tip="" />
+</gameset>
